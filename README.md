@@ -12,7 +12,7 @@ This project focuses on predicting the quality of wine based on various chemical
    - Relevant features were selected using Recursive Feature Elimination (RFE) to enhance model performance and reduce overfitting.
    
 3. **Modeling**  
-   - Several machine learning models were trained, including Linear Regression, Random Forest Regressor, and Random Forest Classifier.
+   - Several machine learning models were trained, including Linear Regression, Random Forest Regressor, Random Forest Classifier, and LightGBM classifier.
    - Hyperparameter tuning was done using K-Fold cross-validation to improve the model's generalization.
    
 4. **Evaluation**  
